@@ -2,4 +2,4 @@ test-config:
   rules:
     - L022
     - L023
-    - L024
+    - LT01
